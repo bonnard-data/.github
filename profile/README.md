@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bonnard-data/mcp-charts">
-    <img src="https://github.com/bonnard-data/bonnard-cli/raw/main/assets/logo.png" alt="Bonnard" width="80" />
+    <img src="https://github.com/bonnard-data/.github/raw/main/profile/logo.png" alt="Bonnard" width="80" />
   </a>
 </p>
 
